@@ -1,0 +1,3 @@
+[submodule "submod-child"]
+	path = submod-child
+	url = git@github.com:hamadakafu/submod-child.git
